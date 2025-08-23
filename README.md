@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @SinglaKrishan
-- 👀 I’m interested in 
+- 👋 Hi, I’m @SinglaKrishan 
 - 🌱 I’m currently learning different coding languages
 - 💞️ I’m looking to collaborate on blogs
 - 📫 How to reach me singlakrishan462@gmail.com
