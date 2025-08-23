@@ -36,7 +36,7 @@ I love building intelligent systems that make an impact. Currently focused on **
 
 ## 🤝 Connect with Me
 🌐 [Portfolio Website](#) (coming soon)  
-💼 [LinkedIn](www.linkedin.com/in/krishan-singla-067305256)  
+💼 www.linkedin.com/in/krishan-singla-067305256 
 📧 singlakrishan462@gmail.com  
 
 ---
