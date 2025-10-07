@@ -30,7 +30,7 @@ I love building intelligent systems that make an impact. Currently focused on **
 - 🥗 **Diet Optimization using ML** – Personalized meal planning with constraints.  
 - 🔒 **DIY Motion Detection Surveillance** – Real-time system with call alerts via Twilio/GSM.  
 
-👉 Check out my [Repositories](https://github.com/yourusername?tab=repositories) for more!  
+👉 Check out my [Repositories](https://github.com/SinglaKrishan?tab=repositories) for more!  
 
 ---
 
